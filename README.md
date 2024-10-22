@@ -23,9 +23,5 @@ Este é um projeto simples de **Calculadora de Operações Aritméticas** desenv
 3. Clique no botão "Calcular" para obter o resultado.
 4. O resultado será exibido abaixo do formulário.
 
-## Exemplo de Uso
 
-![Exemplo de Uso](link-da-imagem-exemplo.png)
-
-## Estrutura do Projeto
 
